@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-c63f012984.nzhhw.cn/sitemap.xml
